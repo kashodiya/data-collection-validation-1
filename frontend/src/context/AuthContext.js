@@ -40,7 +40,7 @@ export const AuthProvider = ({ children }) => {
   const [error, setError] = useState(null);
 
   // Set up axios defaults
-  axios.defaults.baseURL = 'http://localhost:51209/api/v1';
+  axios.defaults.baseURL = 'http://localhost:51922/api/v1';
   
   // Set up axios interceptor for token
   useEffect(() => {

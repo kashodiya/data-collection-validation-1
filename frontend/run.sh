@@ -40,7 +40,7 @@ fi
 
 # Start the development server
 echo "Starting React development server..."
-PORT=57699 npm start
+PORT=56433 npm start
 
 
 
