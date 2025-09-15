@@ -26,6 +26,12 @@
 
 A web-based data collection system for financial institutions to submit regulatory reports to the Federal Reserve. The system manages MDRM (Micro Data Reference Manual) data elements, validates submissions using configurable rules, and supports multiple report series with flexible data formats.
 
+## Project Development
+
+This project was completely developed using OpenHands AI based on the detailed requirements document. The AI assistant was used to generate the entire codebase, including backend, frontend, and documentation.
+
+The detailed requirements document can be found in the [docs/requirements.md](docs/requirements.md) file.
+
 ## Project Structure
 
 ```
